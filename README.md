@@ -1,22 +1,20 @@
-# OT Microservices Project: GitLab, Jenkins, and BuildPiper Comparison
 
-![CI/CD Status](https://img.shields.io/badge/CI/CD-Enabled-brightgreen) 
-![License](https://img.shields.io/badge/License-MIT-blue)
+# **Comparison table and final tool recommendation**
 
-This repository contains the **OT Microservices Project**, which includes three APIs: **Employee API**, **Attendance API**, and **Salary API**. The project is built using modern technologies and follows CI/CD best practices for automated testing and deployment. This document compares **GitLab**, **Jenkins**, and **BuildPiper** to help you choose the best CI/CD tool for your project.
-
+| **Author** | **Created on** | **Version** | **Last updated by**|**Last Edited On**|**Level** |**Reviewer** |
+|------------|---------------------------|-------------|----------------|-----|-------------|-------------|
+| Nikita Joshi|  26-02-2025           | v1         | Nikita Joshi    |26-02-2025    |  internal review | komal jaiswal | 
 ---
 
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Why We Need CI/CD in Our OT Microservice Project](#why-we-need-cicd-in-our-ot-microservice-project)
 3. [Features Comparison](#features-comparison)
-4. [Advantages](#advantages)
-5. [Disadvantages](#disadvantages)
-6. [Cost Comparison](#cost-comparison)
-7. [Conclusion Table](#conclusion-table)
-8. [Contacts](#contacts)
-9. [References](#references)
+4. [Cost Analysis](#cost-analysis)
+5. [Conclusion Table](#conclusion-table)
+6. [Conclusion](#conclusion)
+7. [Contact Information](#contact-information)
+8. [References](#references)
 
 ---
 
@@ -81,13 +79,16 @@ ___
 | **BuildPiper**   | - For Kubernetes-centric and microservices-based applications. <br> - Teams with Kubernetes expertise.| - For projects not involving Kubernetes.<br> - Teams unfamiliar with containerized deployments.   |
 
 
-
-
-**Final Recommendation:**
+## **Conclusion**
 Jenkins is a great choice due to its customization, integration flexibility, and scalability. Although it has a learning curve, its vast plugin ecosystem and strong community support make it a reliable CI/CD solution.
 
 ---
 
+## **Contact Information**
+
+| **Name** | **Email address**            | **Github ID**
+|----------|-------------------------------|-------------------|
+| Nikita joshi    | Nikita.Joshi@mygurukulam.co    | https://github.com/jnikita19  |
 
 
 ---
@@ -96,12 +97,11 @@ Jenkins is a great choice due to its customization, integration flexibility, and
 
 | **Name**        | **Links and Description**                                                                 |
 |-----------------|------------------------------------------------------------------------------------------|
-| **BuildPiper**  | [Official](https://buildpiper.io) | [Documentation](https://docs.buildpiper.io) |
-| **GitLab CI**   | [Official](https://gitlab.com) | [Documentation](https://docs.gitlab.com)    |
-| **Jenkins**     | [Official](https://jenkins.io) | [Documentation](https://www.jenkins.io/doc/)|
+| **BuildPiper**  | [BuildPiper Doc](https://buildpiper.io) |
+| **GitLab**   | [GitLab Doc](https://gitlab.com) |
+| **Jenkins**     | [Jenkins Doc](https://jenkins.io) |
 
 ---
 
-## Final Recommendation
-Final Recommendation:
-Jenkins is a great choice due to its customization, integration flexibility, and scalability. Although it has a learning curve, its vast plugin ecosystem and strong community support make it a reliable CI/CD solution.
+
+
