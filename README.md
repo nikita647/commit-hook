@@ -1,6 +1,9 @@
 
 # **Comparison table and final tool recommendation**
 
+![image](https://github.com/user-attachments/assets/b1c0db62-a249-41e5-9f1c-5e7d4fcd8a9d)
+
+
 | **Author** | **Created on** | **Version** | **Last updated by**|**Last Edited On**|**Level** |**Reviewer** |
 |------------|---------------------------|-------------|----------------|-----|-------------|-------------|
 | Nikita Joshi|  26-02-2025           | v1         | Nikita Joshi    |26-02-2025    |  internal review | komal jaiswal | 
