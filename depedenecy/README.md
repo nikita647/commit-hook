@@ -21,19 +21,20 @@
 9. [References](#references)  
 
 ## Introduction  
-ReactJS applications depend heavily on third-party npm packages, which could have security vulnerabilities.  
-Dependency scanning is essential to ensure that all dependencies are secure, up-to-date, and free from known vulnerabilities.  
-Dependency scanning for JavaScript and ReactJS projects ensures that vulnerabilities in dependencies are detected early, allowing developers to fix them before they become security risks.
+ReactJS applications often rely on third-party npm packages. These packages can sometimes have security vulnerabilities. Dependency scanning helps ensure that all dependencies are secure, up-to-date, and free from known vulnerabilities. By scanning dependencies early, developers can fix issues before they become serious security risks.
 
 
 ## Why is Dependency Scanning Important?  
-Dependency scanning is crucial because vulnerabilities in third-party dependencies can lead to serious security issues.
+Dependency scanning is crucial because vulnerabilities in third-party packages can lead to serious security problems. Here’s why it’s important:
 
-Key reasons to implement dependency scanning:
-- Prevents security breaches by identifying vulnerabilities in dependencies.
-- Ensures compliance with security standards such as ISO 27001, SOC 2, and GDPR.
-- Protects against supply chain attacks by detecting compromised or malicious packages.
-- Improves application reliability by detecting outdated or broken dependencies.
+**Prevents Security Breaches:** Identifies vulnerabilities in dependencies before they can be exploited.
+
+**Ensures Compliance:** Helps meet security standards like ISO 27001, SOC 2, and GDPR.
+
+**Protects Against Supply Chain Attacks:** Detects compromised or malicious packages.
+
+**Improves Application Reliability:** Ensures dependencies are up-to-date and not broken.
+
 
 ## Different Tools for Dependency Scanning  
 
@@ -64,7 +65,7 @@ Each tool has different strengths and focuses.
 
 | **Advantage** | **Description** |  
 |--------------|---------------|  
-| **Detects vulnerabilities early** | Helps identify issues during development, reducing the risk of breaches. |  
+| **Detects vulnerabilities early** | Finds issues during development, reducing the risk of breaches.|  
 | **Automates security checks in CI/CD** | Automates the scanning process to continuously monitor for vulnerabilities. |  
 | **Aids in compliance** | Ensures adherence to security standards by identifying insecure dependencies. |  
 | **Protects from supply chain attacks** | Scans for malicious or compromised dependencies that could be exploited. |  
@@ -74,9 +75,9 @@ Each tool has different strengths and focuses.
 
 | **Best Practice** | **Description** |  
 |------------------|----------------|  
-| **Use npm audit regularly** | Ensure vulnerabilities are caught early by running `npm audit` frequently. |  
-| **Automate in CI/CD pipelines** | Integrate `npm audit` or other tools into your CI/CD process to ensure continuous monitoring. |  
-| **Keep dependencies up to date** | Regularly update dependencies to prevent vulnerabilities from outdated packages. |  
+| **Use npm audit regularly** | Run **npm audit** frequently to catch vulnerabilities early. |  
+| **Automate in CI/CD pipelines** | Integrate tools like **npm audit** or Snyk into your CI/CD process. |  
+| **Keep dependencies up to date** | Regularly update npm packages to avoid old vulnerabilities. |  
 | **Review and audit custom packages** | Even custom packages can have vulnerabilities; regularly audit them. |  
 | **Monitor for new advisories** | Subscribe to security feeds to stay aware of new vulnerabilities in your dependencies. |  
 
