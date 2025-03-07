@@ -82,7 +82,8 @@ Each tool has different strengths and focuses.
 | **Monitor for new advisories** | Subscribe to security feeds to stay aware of new vulnerabilities in your dependencies. |  
 
 ## POC
-For POC follow the [link](https://github.com/username/project-repo/README.md).
+For a step-by-step guide on how to perform Dependency Scanning for react applications, check out our **Proof of Concept (POC)** document:  
+[Click here to view the POC]()
 
 ## Conclusion  
 Dependency scanning is a vital practice for any ReactJS application. Built-in tools like `npm audit` are great for scanning. Implementing regular dependency scanning, especially in CI/CD pipelines, significantly enhances security by identifying vulnerabilities early and ensuring that dependencies are secure.
