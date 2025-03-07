@@ -99,6 +99,6 @@ Dependency scanning is a vital practice for any ReactJS application. Built-in to
 | Tool | Link |
 |------|------|
 | npm audit | Follow the [Link](https://docs.npmjs.com/cli/v7/commands/npm-audit) |
-|npm audit|Documentation[link](https://blog.classyendeavors.com/npm-audit-the-forgotten-command-a95e7014b303)
+|npm audit|Documentation[link](https://medium.com/@walid.mougharbel/auditing-npm-packages-for-compatibility-and-vulenrability-364fb65f85ac)
 | Snyk | Follow the [Link](https://snyk.io/) |
 | OWASP Dependency-Check | Follow the [Link](https://owasp.org/www-project-dependency-check/) |
