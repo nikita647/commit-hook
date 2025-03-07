@@ -9,14 +9,18 @@
 
 ---
 
-## **Table of Contents**
-- [Introduction](#introduction)
-- [POC Steps](#poc-steps)
-- [Report Link](#report-link)
-- [Conclusion](#conclusion)
-- [Contact](#contact)
-- [References](#references)
-
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Step-by-Step Guide](#step-by-step-guide)
+   - [1. Update Packages](#1-update-packages)
+   - [2. Clone Your React Project](#2-clone-your-react-project)
+   - [3. Install npm](#3-install-npm)
+   - [4. Perform Dependency Checks](#4-perform-dependency-checks)
+   - [5. Generate an HTML Report](#5-generate-an-html-report)
+3. [Report Link](#report-link)
+4. [Conclusion](#conclusion)
+5. [Contact Information](#contact-information)
+6. [References](#references)
 ---
 
 ## **Introduction**
