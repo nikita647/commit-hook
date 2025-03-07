@@ -1,10 +1,11 @@
 # Dependency Scanning in ReactJS Projects
-![image](https://github.com/user-attachments/assets/6f68d93c-23ef-4639-b954-faf39df695e7)
+![image](https://github.com/user-attachments/assets/7a126104-c5d6-4b33-8215-718150d5a7fe)
 
 
-| **Author**            | **Created on** | **Version** | **Last updated by**       | **Last edited on** | **Reviewer** |
-|-----------------------|----------------|-------------|----------------------------|---------------------|-------------------|
-| Prashant Sharma      | 07-03-2025       | Version 1 | Prashant Sharma         | 07-03-2025       |   |
+| **Author** | **Created on** | **Version** | **Last updated by**|**Last Edited On**|**Level** |**Reviewer** |
+|------------|---------------------------|-------------|----------------|-----|-------------|-------------|
+| Nikita Joshi|  02-03-2025           | v1         | Nikita Joshi    |02-03-2025    |  internal review | komal jaiswal | 
+
 
 
 ## Table of Contents  
@@ -86,9 +87,11 @@ For POC follow the [link](https://github.com/username/project-repo/README.md).
 Dependency scanning is a vital practice for any ReactJS application. Built-in tools like `npm audit` are great for scanning. Implementing regular dependency scanning, especially in CI/CD pipelines, significantly enhances security by identifying vulnerabilities early and ensuring that dependencies are secure.
 
 ## Contact Information  
-| Name | Email |
-|------|-------|
-| Prashant Sharma | prashant.sharma@mygurukulam.co |
+
+| **Name** | **Email address**            | **Github ID**
+|----------|-------------------------------|-------------------|
+| Nikita joshi    | Nikita.Joshi@mygurukulam.co    | https://github.com/jnikita19  |
+
 
 ## References  
 | Tool | Link |
