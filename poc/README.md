@@ -87,5 +87,5 @@ ___
 
 | **Links**                                           | **Description**         |
 |-----------------------------------------------------|-------------------------|
-| [Document]()  |  Detailed Documentation |
+| npm audit | Follow the [Link](https://docs.npmjs.com/cli/v7/commands/npm-audit) |
 
