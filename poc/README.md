@@ -9,7 +9,7 @@
 
 ---
 
-## Table of Contents
+## **Table of Contents**
 - [Introduction](#introduction)
 - [POC Steps](#poc-steps)
 - [Report Link](#report-link)
@@ -19,7 +19,7 @@
 
 ---
 
-## Introduction
+## **Introduction**
 
 In this document, we are creating the Proof of Concept (POC) for **Dependency Scanning** in a React app using the `npm audit` command.The goal is to identify and analyze security vulnerabilities in the project's dependencies.
 
@@ -27,7 +27,7 @@ In this document, we are creating the Proof of Concept (POC) for **Dependency Sc
 
 ---
 
-## POC Steps
+## **Steps by Step guide**
 
 ### 1. Update Packages
 
@@ -37,7 +37,7 @@ Run the following commands to update your system:
 sudo apt update
 ```
 
-__
+___
 ### 2. Clone your React project
 Clone the React project repository to your local machine.
 ___
@@ -88,4 +88,5 @@ ___
 | **Links**                                           | **Description**         |
 |-----------------------------------------------------|-------------------------|
 | npm audit | Follow the [Link](https://docs.npmjs.com/cli/v7/commands/npm-audit) |
+
 
