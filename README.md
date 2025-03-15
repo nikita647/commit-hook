@@ -1,5 +1,5 @@
 
-# **Comparison table and final tool recommendation**
+# **Comparison table and final tool **
 
 ![image](https://github.com/user-attachments/assets/b1c0db62-a249-41e5-9f1c-5e7d4fcd8a9d)
 
